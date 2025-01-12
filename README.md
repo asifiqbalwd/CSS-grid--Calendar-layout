@@ -26,5 +26,3 @@ This project demonstrates the use of **CSS Grid** to create a simple and respons
 
 **Asif Iqbal**  
 Full Stack Web Developer
-
----
